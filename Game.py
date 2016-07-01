@@ -1,5 +1,6 @@
 import pygame
 
+# Define Window Dimensions
 WIDTH = 1024
 HEIGHT = 1024
 
