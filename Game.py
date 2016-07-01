@@ -1,7 +1,7 @@
 import pygame
 
-WIDTH = 600 #1366 
-HEIGHT = 600#719
+WIDTH = 1024
+HEIGHT = 1024
 
 alien = Actor('spaceship')
 alien.pos = 170,130
